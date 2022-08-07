@@ -1,0 +1,12 @@
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\bin\Debug\net6.0\WebApiVehicle.Models.deps.json
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\bin\Debug\net6.0\WebApiVehicle.Models.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\bin\Debug\net6.0\WebApiVehicle.Models.pdb
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.csproj.AssemblyReference.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.AssemblyInfoInputs.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.AssemblyInfo.cs
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.csproj.CoreCompileInputs.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\refint\WebApiVehicle.Models.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\WebApiVehicle.Models.pdb
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.Models\obj\Debug\net6.0\ref\WebApiVehicle.Models.dll

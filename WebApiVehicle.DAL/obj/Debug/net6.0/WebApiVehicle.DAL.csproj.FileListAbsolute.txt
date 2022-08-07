@@ -1,0 +1,17 @@
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\bin\Debug\net6.0\WebApiVehicle.DAL.deps.json
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\bin\Debug\net6.0\WebApiVehicle.DAL.runtimeconfig.json
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\bin\Debug\net6.0\WebApiVehicle.DAL.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\bin\Debug\net6.0\WebApiVehicle.DAL.pdb
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\bin\Debug\net6.0\WebApiVehicle.Models.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\bin\Debug\net6.0\WebApiVehicle.Models.pdb
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.csproj.AssemblyReference.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.AssemblyInfoInputs.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.AssemblyInfo.cs
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.csproj.CoreCompileInputs.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.csproj.CopyComplete
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\refint\WebApiVehicle.DAL.dll
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.pdb
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\WebApiVehicle.DAL.genruntimeconfig.cache
+C:\Users\yuska\Desktop\WebApiVehicle.Models\WebApiVehicle.DAL\obj\Debug\net6.0\ref\WebApiVehicle.DAL.dll
